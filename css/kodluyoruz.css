@@ -2,24 +2,14 @@ body {
     background-color: aqua;
 }
 h1 {
-    color: rgb(5, 5, 248)
-}
-h1 {
+    color: rgb(5, 5, 248);
     font-size: 40px;
-}
-h1 {
     font-family: 'Courier New', Courier, monospace;
-}
-h1 {
     background-color: rgb(252, 252, 5);
-}
-h1 {
     text-align: center;
 }
 a {
-    color: rgb(255, 0, 0)
-}
-a {
+    color: rgb(255, 0, 0);
     text-align: center;
 }
 b {
